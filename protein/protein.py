@@ -49,10 +49,11 @@ plt.savefig("protein/output/AA_Häufigkeiten_Polarität.png",dpi=300)
 plt.close()
 
 # Teilaufgabe c)
-motiv = "RNM"
-motiv_count = 0
-for motiv in protein:
-    if motiv in protein:
-        motiv_count += 1
+print(protein.count("RNM"))
 
-print(motiv_count)
+motiv = "RNM"
+positionen = []
+
+for i in range(1,len(protein)-(len(protein)%3)):
+    if protein[i:i+3] == motiv:
+        positionen.append(i)
