@@ -1,0 +1,17 @@
+Wetter-Daten Analyse
+
+Die Datei wetter.txt enthält Wetterdaten verschiedener Städte im Format:
+Stadt;Datum;Temperatur;Luftfeuchtigkeit;Luftdruck;Windgeschwindigkeit
+
+a) Lies die Wetterdaten ein und berechne für jede Stadt den Durchschnitt von:
+   - Temperatur
+   - Luftfeuchtigkeit
+   Stelle die Ergebnisse als Balkendiagramm dar (ein Diagramm mit zwei Balken pro Stadt).
+
+b) Erstelle ein Liniendiagramm, das den Temperaturverlauf über die Zeit für alle 
+   drei Städte zeigt (drei Linien in verschiedenen Farben).
+
+c) Finde den Tag und die Stadt mit:
+   - der höchsten Temperatur
+   - der niedrigsten Temperatur
+   - der höchsten Windgeschwindigkeit
