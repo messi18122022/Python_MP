@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 # Daten einlesen und verarbeiten
 data = {}  # Dictionary für die Daten jeder Stadt
 
-with open('wetter.txt', 'r') as file:
+with open('weather/weather_data.txt', 'r') as file:
     for line in file:
         # Zeile aufteilen nach Semikolon
         stadt, datum, temp, feuchte, druck, wind = line.strip().split(';')
