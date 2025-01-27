@@ -1,0 +1,10 @@
+RNA-Analyse und Visualisierung
+
+a) Lies die RNA-Sequenz aus der Datei 'rna.txt' ein. Die RNA enthält die Basen 'A', 'U', 'G', 'C'.
+   Erstelle ein Kreisdiagramm (Pie-Chart), das die prozentuale Verteilung der Basen zeigt.
+
+b) RNA unterscheidet sich von DNA dadurch, dass statt Thymin (T) Uracil (U) verwendet wird.
+   Wandle die RNA-Sequenz in DNA um (ersetze U durch T) und speichere das Ergebnis in 'dna_output.txt'.
+
+c) Berechne den GC-Gehalt der Sequenz. Der GC-Gehalt ist der prozentuale Anteil von G und C Basen
+   in der Gesamtsequenz. Stelle das Ergebnis als horizontalen Balken von 0-100% dar.

@@ -1,0 +1,12 @@
+Protein-Sequenz Analyse
+
+Die Datei sequence.txt enthält eine Protein-Sequenz im Ein-Buchstaben-Code.
+
+Aufgaben:
+a) Lies die Sequenz ein und erstelle ein Balkendiagramm der Aminosäure-Häufigkeiten.
+
+b) Berechne den Anteil an hydrophoben Aminosäuren (A,I,L,M,F,W,V) und hydrophilen 
+   Aminosäuren (R,N,D,C,E,Q,G,H,K,P,S,T,Y) in der Sequenz. 
+   Stelle dies als Kuchendiagramm dar.
+
+c) Finde alle Vorkommen des Motivs "RNM" in der Sequenz und gib die Positionen aus.
