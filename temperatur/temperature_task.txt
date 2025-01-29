@@ -1,0 +1,17 @@
+Aufgabe: Temperaturanalyse aus einer CSV-Datei
+
+a) Daten einlesen und analysieren
+   - Lies eine Datei mit Temperaturmesswerten ein (die Datei enthält Zeitstempel und Temperaturwerte).
+   - Berechne den Durchschnitt, das Minimum und das Maximum der Temperaturwerte.
+   - Stelle die Temperaturverteilung in einem Histogramm dar.
+
+b) Temperaturverlauf über die Zeit plotten
+   - Erstelle ein Liniendiagramm, das den Temperaturverlauf über die Zeit zeigt.
+   - Markiere den höchsten und den niedrigsten Wert im Diagramm.
+
+c) Temperatur-Klassifizierung
+   - Teile die Temperaturen in drei Kategorien ein:
+     - Kalt: Temperatur < 10°C
+     - Mild: Temperatur zwischen 10°C und 25°C
+     - Heiß: Temperatur > 25°C
+   - Erstelle ein Kreisdiagramm (Pie-Chart), das zeigt, wie viele Messwerte in jede Kategorie fallen.
